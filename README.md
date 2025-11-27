@@ -1,3 +1,5 @@
+decision tree 모델 먼저 완성 후 코드 몇 줄만 수정하면 random forest 모델도 쉽게 만들 수 있어 둘 다 업로드 하였습니다. random forest 모델만 발표자료에 사용하여도 좋고, 아니면 두 모델 다 사용하여 비교하는 식으로 발표에 사용하여도 좋을 거 같습니다. 아래에는 decision tree와 random forest 모델의 특징과 decision tree에 비해 random forest를 사용하는 것의 이점, 두 모델의 결과 분석과 한계 등을 정리하였습니다.
+
 # 🎵 Hit Song Prediction: Decision Tree & Random Forest 분석
 
 본 프로젝트는 Spotify 음향 데이터(tempo, valence, energy 등)를 기반으로 **히트곡 여부를 예측하고**,
